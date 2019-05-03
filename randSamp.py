@@ -8,4 +8,4 @@ for i in range(1,dd+1):
     print('%4d'%r[i-1],end='')
     if i % d == 0:
        print ()
-#HELLO OK
+#HELLO 1
